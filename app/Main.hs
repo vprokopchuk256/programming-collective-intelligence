@@ -1,6 +1,7 @@
 module Main where
 
-import qualified Critics as Critics
+import qualified Data as Data
+import qualified SimiliarUsers.EuclideanDistance
 
 main :: IO ()
-main = putStrLn $ show Critics.critics
+main = putStrLn $ show Data.prefs

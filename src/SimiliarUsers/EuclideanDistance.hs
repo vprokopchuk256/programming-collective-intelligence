@@ -1,0 +1,2 @@
+module SimiliarUsers.EuclideanDistance where
+
