@@ -1,14 +1,21 @@
-module Data where
+module Data
+    ( PersonName
+    , MovieName
+    , PersonPreferences
+    , prefs
+    ) where
 
-import Data.HashMap.Strict as Map
+import Prelude             hiding (lookup)
+import Data.HashMap.Strict (HashMap, fromList, lookup)
+import Data.Either.Utils   (maybeToEither)
 
 type PersonName = String
 type MovieName = String
 type PersonPreferences = HashMap MovieName Float
 type Preferences = HashMap PersonName PersonPreferences
 
-prefs :: Preferences
-prefs = fromList [
+allPreferences :: Preferences
+allPreferences = fromList [
     ("Lisa Rose", fromList [
         ("Lady in the Water", 2.5),
         ("Snakes on a Plane", 3.5),
@@ -59,3 +66,9 @@ prefs = fromList [
         ("Superman Returns", 4.0)
     ])
   ]
+
+prefs :: PersonName
+      -> Either String PersonPreferences
+prefs pn = maybeToEither error $ lookup pn allPreferences
+  where
+    error = "Unknown user " ++ pn

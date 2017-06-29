@@ -1,19 +1,19 @@
-module SimiliarUsers.EuclideanDistance(distance) where
+module SimiliarUsers.EuclideanDistance
+    ( distance
+    ) where
 
-import qualified Data.HashMap.Strict as Map
-import qualified Data as Data
+import Data.HashMap.Strict  (elems, intersectionWith)
 
-distance :: Data.PersonName -> Data.PersonName -> Maybe Float
+import Data                 (PersonName, prefs)
+
+distance :: PersonName -> PersonName
+         -> Either String Float
 distance pn1 pn2 = do
-    -- ** get users data
-    p1Pref <- Map.lookup pn1 Data.prefs
-    p2Pref <- Map.lookup pn2 Data.prefs
+    p1 <- prefs pn1
+    p2 <- prefs pn2
 
-    -- calculate map with square diffs as value
-    let squareDiffs = Map.elems $ Map.intersectionWith squareDiff p1Pref p2Pref
-
-    return $ 1 / (1 + (sum squareDiffs))
+    return $ balanced . sum $ squareDiffIntersection p1 p2
   where
     squareDiff v1 v2 = (v1 - v2) ^ 2
-
-
+    squareDiffIntersection m1 m2 = elems $ intersectionWith squareDiff m1 m2
+    balanced v = 1 / (1 + v)
