@@ -4,15 +4,18 @@ import Data.HashMap.Strict as Map
 
 type PersonName = String
 type MovieName = String
+type PersonPreferences = HashMap MovieName Float
+type Preferences = HashMap PersonName PersonPreferences
 
-prefs :: HashMap PersonName (HashMap MovieName Float)
+prefs :: Preferences
 prefs = fromList [
     ("Lisa Rose", fromList [
         ("Lady in the Water", 2.5),
         ("Snakes on a Plane", 3.5),
         ("Just My Luck", 3.0),
         ("Superman Returns", 3.5),
-        ("You, Me and Dupree", 2.5)
+        ("You, Me and Dupree", 2.5),
+        ("The Night Listener", 3.0)
     ]),
     ("Gene Seymour", fromList [
         ("Lady in the Water", 3.0),
@@ -56,4 +59,3 @@ prefs = fromList [
         ("Superman Returns", 4.0)
     ])
   ]
-
