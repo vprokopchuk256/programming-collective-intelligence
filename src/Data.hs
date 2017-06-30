@@ -3,10 +3,11 @@ module Data
     , MovieName
     , PersonPreferences
     , prefs
+    , prefsIntersection
     ) where
 
 import Prelude             hiding (lookup)
-import Data.HashMap.Strict (HashMap, fromList, lookup)
+import Data.HashMap.Strict (HashMap, fromList, lookup, intersectionWith, elems)
 import Data.Either.Utils   (maybeToEither)
 
 type PersonName = String
@@ -72,3 +73,11 @@ prefs :: PersonName
 prefs pn = maybeToEither error $ lookup pn allPreferences
   where
     error = "Unknown user " ++ pn
+
+prefsIntersection :: PersonName -> PersonName
+                  -> Either String [(Float, Float)]
+prefsIntersection pn1 pn2 = do
+    p1 <- prefs pn1
+    p2 <- prefs pn2
+
+    return $ elems $ intersectionWith ((,)) p1 p2
