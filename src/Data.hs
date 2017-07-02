@@ -2,8 +2,8 @@ module Data
     ( PersonName
     , MovieName
     , PersonPreferences
-    , prefs
-    , prefsIntersection
+    , personPrefs
+    , personPrefsIntersection
     ) where
 
 import Prelude             hiding (lookup)
@@ -68,16 +68,16 @@ allPreferences = fromList [
     ])
   ]
 
-prefs :: PersonName
+personPrefs :: PersonName
       -> Either String PersonPreferences
-prefs pn = maybeToEither error $ lookup pn allPreferences
+personPrefs pn = maybeToEither error $ lookup pn allPreferences
   where
     error = "Unknown user " ++ pn
 
-prefsIntersection :: PersonName -> PersonName
+personPrefsIntersection :: PersonName -> PersonName
                   -> Either String [(Float, Float)]
-prefsIntersection pn1 pn2 = do
-    p1 <- prefs pn1
-    p2 <- prefs pn2
+personPrefsIntersection pn1 pn2 = do
+    p1 <- personPrefs pn1
+    p2 <- personPrefs pn2
 
     return $ elems $ intersectionWith ((,)) p1 p2
