@@ -1,11 +1,11 @@
 module SimiliarUsers.PearsonDistance(distance) where
 
-import Data                 (PersonName, prefsIntersection)
+import Data                 (PersonName, tryMatchRates)
 
 distance :: PersonName -> PersonName
          -> Either String Float
 distance pn1 pn2 = do
-    si <- prefsIntersection pn1 pn2
+    si <- tryMatchRates pn1 pn2
 
     let sum1 = sum $ map fst si
     let sum2 = sum $ map snd si
