@@ -16,6 +16,7 @@ cabal-version:       >=1.10
 library
   hs-source-dirs:      src
   exposed-modules:     Lib
+                     , Utils
                      , Data
                      , SimiliarUsers.EuclideanDistance
                      , SimiliarUsers.PearsonDistance

@@ -1,18 +1,15 @@
 module Recommendations(recommendedMoviesFor) where
 
-import qualified Data.Ord                as Ord(comparing)
-import qualified Data.HashMap.Strict     as Map(HashMap, fromList, (!))
-import qualified Data.List               as List(nub)
-
-import           Data                    as Data
+import      Data          as Data(PersonName, title, name, rate, allItems, tryFindByName)
+import      Utils         as Utils(tryList, reverseBy, except, groupBy)
 
 recommendedMoviesFor :: PersonName -> (PersonName -> PersonName -> Either String Float)
                      -> Either String [(String, Float)]
 recommendedMoviesFor pn simf = do
     titles <- map title <$> tryFindByName pn allItems
 
-    otherItems <- try "Has not other users" $
-                  ((exceptTitles titles) . (exceptNames [pn])) allItems
+    otherItems <- tryList "Has not other users" $
+                  ((except title titles) . (except name [pn])) allItems
 
     let groups = groupBy title otherItems
 

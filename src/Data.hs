@@ -4,18 +4,10 @@ module Data
     , Item(..)
     , allItems
     , tryMatchRates
-    , groupBy
-    , sortBy
-    , reverseBy
-    , try
     , tryFindByName
-    , exceptNames
-    , exceptTitles
     ) where
 
-import qualified Data.Ord            as Ord(comparing)
-import qualified Data.List           as List(find, groupBy, sortBy, reverse)
-import qualified Data.Maybe          as Maybe(isJust, fromJust)
+import           Utils               as Utils(tryList, matchBy, sortBy)
 
 -- ----------------------------------------------------------------------------------
 -- Private Part. Data and environment
@@ -74,58 +66,21 @@ allItems = map (\(name, title, rate) -> Item name title rate)
     , ("Toby",             "Superman Returns",   4.0)
     ]
 
--- ----------------------------------------------------------------------------------
--- Private Part. Service Functions
--- ----------------------------------------------------------------------------------
-
-try :: String -> [a]
-             -> Either String [a]
-try error [] = Left error
-try _ xs = Right xs
-
-matchBy :: (Eq a) => (Item -> a) -> [Item] -> [Item]
-        -> [(Item, Item)]
-matchBy f is1 is2 = map extractValue $ filter isMatched $ map match is1
-  where
-    match item = (item, List.find (\other -> (f item) == (f other)) is2)
-    isMatched (item, m) = Maybe.isJust m
-    extractValue (item, m) = (item, Maybe.fromJust m)
-
-sortBy :: (Ord a) => (b -> a) -> [b] -> [b]
-sortBy f items = List.sortBy (Ord.comparing f) items
-
-reverseBy :: (Ord a) => (b -> a) -> [b] -> [b]
-reverseBy f = (List.reverse . (sortBy f))
-
-groupBy :: (Eq a, Ord a) => (Item -> a) -> [Item]
-        -> [[Item]]
-groupBy f items = List.groupBy (\i1 i2 -> f i1 == f i2) $ sortBy f items
-
-exceptTitles :: [MovieTitle] -> [Item] -> [Item]
-exceptTitles ts = filter (\i -> notElem (title i) ts)
-
-exceptNames :: [PersonName] -> [Item] -> [Item]
-exceptNames pns = filter (\i -> notElem (name i) pns)
-
 pair :: (Item -> a) -> (Item, Item)
      -> (a, a)
 pair f (i1, i2) = (f i1, f i2)
 
--- ----------------------------------------------------------------------------------
--- Public Part
--- ----------------------------------------------------------------------------------
-
 -- | finds data by person name
 tryFindByName :: PersonName -> [Item]
               -> Either String [Item]
-tryFindByName pn items = try error $ filter (\i -> name i == pn) items
+tryFindByName pn items = tryList error $ filter (\i -> name i == pn) items
   where
     error = "Unknown user " ++ pn
 
 -- | mathces two specified items list by the specified item attribute
 tryMatchByTitle :: [Item] -> [Item]
                 -> Either String [(Item, Item)]
-tryMatchByTitle is1 is2 = try error $ matchBy title is1 is2
+tryMatchByTitle is1 is2 = tryList error $ matchBy title is1 is2
   where
     error = "Users do not have common interests"
 
