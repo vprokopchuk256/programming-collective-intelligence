@@ -5,7 +5,6 @@ module Data
     , allItems
     , tryMatchRates
     , groupBy
-    , sortBy
     , reverseBy
     , tryFindByName
     , exceptNames
@@ -16,7 +15,7 @@ import qualified Data.Ord            as Ord(comparing)
 import qualified Data.List           as List(find, groupBy, sortBy, reverse)
 import qualified Data.Maybe          as Maybe(isJust, fromJust)
 
-import           Utils               as Utils(tryList)
+import           Utils               as Utils(tryList, matchBy, sortBy)
 
 -- ----------------------------------------------------------------------------------
 -- Private Part. Data and environment
@@ -78,17 +77,6 @@ allItems = map (\(name, title, rate) -> Item name title rate)
 -- ----------------------------------------------------------------------------------
 -- Private Part. Service Functions
 -- ----------------------------------------------------------------------------------
-
-matchBy :: (Eq b) => (a -> b) -> [a] -> [a]
-        -> [(a, a)]
-matchBy f is1 is2 = map extractValue $ filter isMatched $ map match is1
-  where
-    match item = (item, List.find (\other -> (f item) == (f other)) is2)
-    isMatched (item, m) = Maybe.isJust m
-    extractValue (item, m) = (item, Maybe.fromJust m)
-
-sortBy :: (Ord a) => (b -> a) -> [b] -> [b]
-sortBy f items = List.sortBy (Ord.comparing f) items
 
 reverseBy :: (Ord a) => (b -> a) -> [b] -> [b]
 reverseBy f = (List.reverse . (sortBy f))
