@@ -5,13 +5,14 @@ import qualified Data.HashMap.Strict     as Map(HashMap, fromList, (!))
 import qualified Data.List               as List(nub)
 
 import           Data                    as Data
+import           Utils                   as Utils(tryList)
 
 recommendedMoviesFor :: PersonName -> (PersonName -> PersonName -> Either String Float)
                      -> Either String [(String, Float)]
 recommendedMoviesFor pn simf = do
     titles <- map title <$> tryFindByName pn allItems
 
-    otherItems <- try "Has not other users" $
+    otherItems <- tryList "Has not other users" $
                   ((exceptTitles titles) . (exceptNames [pn])) allItems
 
     let groups = groupBy title otherItems
