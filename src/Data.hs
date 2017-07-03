@@ -1,10 +1,21 @@
 module Data
     ( PersonName
+    , MovieTitle
+    , Item(..)
+    , allItems
     , tryMatchRates
+    , groupBy
+    , sortBy
+    , reverseBy
+    , try
+    , tryFindByName
+    , exceptNames
+    , exceptTitles
     ) where
 
-import Data.List           (find)
-import Data.Maybe          (isJust, fromJust)
+import qualified Data.Ord            as Ord(comparing)
+import qualified Data.List           as List(find, groupBy, sortBy, reverse)
+import qualified Data.Maybe          as Maybe(isJust, fromJust)
 
 -- ----------------------------------------------------------------------------------
 -- Private Part. Data and environment
@@ -19,7 +30,7 @@ data Item = Item
     , rate :: Float
     } deriving(Show)
 
-items = map (\(name, title, rate) -> Item name title rate)
+allItems = map (\(name, title, rate) -> Item name title rate)
     [ ("Lisa Rose",        "Lady in the Water",  2.5)
     , ("Lisa Rose",        "Snakes on a Plane",  3.5)
     , ("Lisa Rose",        "Just My Luck",       3.0)
@@ -72,24 +83,29 @@ try :: String -> [a]
 try error [] = Left error
 try _ xs = Right xs
 
-findBy :: (Item -> Bool)
-       -> [Item]
-findBy f = filter f items
-
-findByName :: String -> [Item]
-findByName pn = findBy (\i -> name i == pn)
-
 matchBy :: (Eq a) => (Item -> a) -> [Item] -> [Item]
         -> [(Item, Item)]
 matchBy f is1 is2 = map extractValue $ filter isMatched $ map match is1
   where
-    match item = (item, find (\other -> (f item) == (f other)) is2)
-    isMatched (item, m) = isJust m
-    extractValue (item, m) = (item, fromJust m)
+    match item = (item, List.find (\other -> (f item) == (f other)) is2)
+    isMatched (item, m) = Maybe.isJust m
+    extractValue (item, m) = (item, Maybe.fromJust m)
 
-matchByTitle :: [Item] -> [Item]
-             -> [(Item, Item)]
-matchByTitle = matchBy title
+sortBy :: (Ord a) => (b -> a) -> [b] -> [b]
+sortBy f items = List.sortBy (Ord.comparing f) items
+
+reverseBy :: (Ord a) => (b -> a) -> [b] -> [b]
+reverseBy f = (List.reverse . (sortBy f))
+
+groupBy :: (Eq a, Ord a) => (Item -> a) -> [Item]
+        -> [[Item]]
+groupBy f items = List.groupBy (\i1 i2 -> f i1 == f i2) $ sortBy f items
+
+exceptTitles :: [MovieTitle] -> [Item] -> [Item]
+exceptTitles ts = filter (\i -> notElem (title i) ts)
+
+exceptNames :: [PersonName] -> [Item] -> [Item]
+exceptNames pns = filter (\i -> notElem (name i) pns)
 
 pair :: (Item -> a) -> (Item, Item)
      -> (a, a)
@@ -100,9 +116,9 @@ pair f (i1, i2) = (f i1, f i2)
 -- ----------------------------------------------------------------------------------
 
 -- | finds data by person name
-tryFindByName :: PersonName
+tryFindByName :: PersonName -> [Item]
               -> Either String [Item]
-tryFindByName pn = try error $ findByName pn
+tryFindByName pn items = try error $ filter (\i -> name i == pn) items
   where
     error = "Unknown user " ++ pn
 
@@ -117,8 +133,8 @@ tryMatchByTitle is1 is2 = try error $ matchBy title is1 is2
 tryMatchRates :: PersonName -> PersonName
               -> Either String [(Float, Float)]
 tryMatchRates pn1 pn2 = do
-    p1 <- tryFindByName pn1
-    p2 <- tryFindByName pn2
+    p1 <- tryFindByName pn1 allItems
+    p2 <- tryFindByName pn2 allItems
 
     m <- tryMatchByTitle p1 p2
 

@@ -19,6 +19,7 @@ library
                      , Data
                      , SimiliarUsers.EuclideanDistance
                      , SimiliarUsers.PearsonDistance
+                     , Recommendations
   build-depends:       base >= 4.7 && < 5
                      , unordered-containers
                      , MissingH
