@@ -1,0 +1,648 @@
+<?xml version="1.0"?>
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:media="http://search.yahoo.com/mrss/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:nyt="http://www.nytimes.com/namespaces/rss/2.0" version="2.0">
+  <channel>
+    <title>NYT &gt; Technology</title>
+    <link>https://www.nytimes.com/section/technology?partner=rss&amp;emc=rss</link>
+    <atom:link rel="self" type="application/rss+xml" href="http://www.nytimes.com/services/xml/rss/nyt/Technology.xml"/>
+    <description/>
+    <language>en-us</language>
+    <copyright>Copyright 2017  The New York Times Company</copyright>
+    <lastBuildDate>Wed, 05 Jul 2017 21:42:14 GMT </lastBuildDate>
+    <image>
+      <title>NYT &gt; Technology</title>
+      <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
+      <link>https://www.nytimes.com/section/technology?partner=rss&amp;emc=rss</link>
+    </image>
+    <item>
+      <title>Volvo, Betting on Electric, Moves to Phase Out Conventional Engines</title>
+      <link>https://www.nytimes.com/2017/07/05/business/energy-environment/volvo-hybrid-electric-car.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2017/07/05/business/energy-environment/volvo-hybrid-electric-car.html</guid>
+      <atom:link rel="standout" href="https://www.nytimes.com/2017/07/05/business/energy-environment/volvo-hybrid-electric-car.html?partner=rss&amp;emc=rss"/>
+      <media:content url="https://static01.nyt.com/images/2017/07/06/business/06electricvolvo/06electricvolvo-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description>A Volvo plug-in hybrid at an auto show in Beijing in 2014.</media:description>
+      <media:credit>Diego Azubel/European Pressphoto Agency</media:credit>
+      <description>It became the first mainstream automaker to sound the death knell of the traditional engine, saying all the models it introduces from 2019 will be either hybrids or powered solely by batteries.</description>
+      <dc:creator>JACK EWING</dc:creator>
+      <pubDate>Wed, 05 Jul 2017 17:20:33 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Automobiles</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Electric and Hybrid Vehicles</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Engines</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Batteries</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Oil (Petroleum) and Gasoline</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Volvo Car Corp</category>
+    </item>
+    <item>
+      <title>How Uber May Have Improperly Taxed Its Drivers</title>
+      <link>https://www.nytimes.com/2017/07/05/business/how-uber-may-have-improperly-taxed-its-drivers.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2017/07/05/business/how-uber-may-have-improperly-taxed-its-drivers.html</guid>
+      <atom:link rel="standout" href="https://www.nytimes.com/2017/07/05/business/how-uber-may-have-improperly-taxed-its-drivers.html?partner=rss&amp;emc=rss"/>
+      <media:content url="https://static01.nyt.com/images/2017/06/28/business/oakImage-1498672725872/oakImage-1498672725872-moth-v2.jpg" medium="image" height="151" width="151"/>
+      <media:description>An Uber driver moving through the streets of Manhattan.</media:description>
+      <media:credit>Sam Hodgson for The New York Times</media:credit>
+      <description>Drivers&#x2019; trip receipts contain signs that the ride-hailing service deducted hundreds of millions of dollars from drivers&#x2019; earnings in New York to pay state taxes.</description>
+      <dc:creator>NOAM SCHEIBER</dc:creator>
+      <pubDate>Wed, 05 Jul 2017 20:21:01 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Wages and Salaries</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Taxicabs and Taxicab Drivers</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Sales and Excise Taxes</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Uber Technologies Inc</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Prices (Fares, Fees and Rates)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Car Services and Livery Cabs</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Labor and Jobs</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Lyft Inc</category>
+    </item>
+    <item>
+      <title>A Backlash Builds Against Sexual Harassment in Silicon Valley</title>
+      <link>https://www.nytimes.com/2017/07/03/technology/silicon-valley-sexual-harassment.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2017/07/03/technology/silicon-valley-sexual-harassment.html</guid>
+      <atom:link rel="standout" href="https://www.nytimes.com/2017/07/03/technology/silicon-valley-sexual-harassment.html?partner=rss&amp;emc=rss"/>
+      <media:content url="https://static01.nyt.com/images/2017/07/04/business/04HARASS2/04HARASS2-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description>Dave McClure, the founder of 500 Startups, resigned on Monday.</media:description>
+      <media:credit>Justin Chin/Bloomberg</media:credit>
+      <description>A wave of revelations about investors mistreating female entrepreneurs has spurred the resignation of a prominent venture capitalist and calls for change.</description>
+      <dc:creator>KATIE BENNER</dc:creator>
+      <pubDate>Tue, 04 Jul 2017 00:54:52 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Silicon Valley (Calif)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Sexual Harassment</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Venture Capital</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Discrimination</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">500 Startups</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">McClure, Dave</category>
+    </item>
+    <item>
+      <title>Education Disrupted: How Silicon Valley Pushed Coding Into American Classrooms</title>
+      <link>https://www.nytimes.com/2017/06/27/technology/education-partovi-computer-science-coding-apple-microsoft.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2017/06/27/technology/education-partovi-computer-science-coding-apple-microsoft.html</guid>
+      <atom:link rel="standout" href="https://www.nytimes.com/2017/06/27/technology/education-partovi-computer-science-coding-apple-microsoft.html?partner=rss&amp;emc=rss"/>
+      <media:content url="https://static01.nyt.com/images/2017/06/28/business/00PARTOVI6/00PARTOVI6-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description>Hadi Partovi, co-founder of Code.org.</media:description>
+      <media:credit>Koren Shadmi for The New York Times</media:credit>
+      <description>Code.org, a tech-backed nonprofit, is pressing schools to teach computer science. But are tech firms swaying education to serve their own interests?</description>
+      <dc:creator>NATASHA SINGER</dc:creator>
+      <pubDate>Tue, 27 Jun 2017 09:00:36 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Education (K-12)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Computers and the Internet</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Code.org</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Partovi, Hadi</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Microsoft Corp</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Silicon Valley (Calif)</category>
+    </item>
+    <item>
+      <title>Try, Then Buy? Amazon&#x2019;s Move Is Part of a Shopping Trend</title>
+      <link>https://www.nytimes.com/2017/07/05/fashion/try-before-you-buy-amazon.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2017/07/05/fashion/try-before-you-buy-amazon.html</guid>
+      <atom:link rel="standout" href="https://www.nytimes.com/2017/07/05/fashion/try-before-you-buy-amazon.html?partner=rss&amp;emc=rss"/>
+      <media:content url="https://static01.nyt.com/images/2017/07/06/fashion/06TRYBUY/06TRYBUY-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description/>
+      <media:credit>Bee Murphy</media:credit>
+      <description>Fine jewelry, swimsuits and cocktail dresses are among the many items you can live with free for a while till it&#x2019;s time to pay up or wrap up.</description>
+      <dc:creator>CLAIRE COGHLAN</dc:creator>
+      <pubDate>Wed, 05 Jul 2017 19:30:52 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Customer Relations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Fashion and Apparel</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">E-Commerce</category>
+    </item>
+    <item>
+      <title>Tech We're Using: In Reporting on North Korea, Tech Helps Break Through Secrecy</title>
+      <link>https://www.nytimes.com/2017/07/05/technology/personaltech/in-reporting-on-north-korea-tech-helps-break-through-secrecy.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2017/07/05/technology/personaltech/in-reporting-on-north-korea-tech-helps-break-through-secrecy.html</guid>
+      <atom:link rel="standout" href="https://www.nytimes.com/2017/07/05/technology/personaltech/in-reporting-on-north-korea-tech-helps-break-through-secrecy.html?partner=rss&amp;emc=rss"/>
+      <media:content url="https://static01.nyt.com/images/2017/07/06/business/06techusing1/06techusing1-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description>Choe Sang-Hun, The New York Times&#x2019;s Korea correspondent, at a news conference in Seoul last week. In his backpack was a MacBook Air, while he held an iPhone and a notepad.</media:description>
+      <media:credit>Jean Chung for The New York Times</media:credit>
+      <description>But Choe Sang-Hun, The New York Times&#x2019;s Korea correspondent, wishes that his iPhone could record phone conversations.</description>
+      <dc:creator>CHOE SANG-HUN</dc:creator>
+      <pubDate>Wed, 05 Jul 2017 18:44:28 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Smartphones</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">News and News Media</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">North Korea</category>
+    </item>
+    <item>
+      <title>Bits: Daily Report: Silicon Valley&#x2019;s Financiers and Sexual Harassment</title>
+      <link>https://www.nytimes.com/2017/07/05/technology/daily-report-silicon-valleys-financiers-and-sexual-harassment.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2017/07/05/technology/daily-report-silicon-valleys-financiers-and-sexual-harassment.html</guid>
+      <atom:link rel="standout" href="https://www.nytimes.com/2017/07/05/technology/daily-report-silicon-valleys-financiers-and-sexual-harassment.html?partner=rss&amp;emc=rss"/>
+      <media:content url="https://static01.nyt.com/images/2017/07/01/us/01VALLEYWOMEN1/01VALLEYWOMEN1-moth-v2.jpg" medium="image" height="151" width="151"/>
+      <media:description>Rachel Renock, the chief executive of Wethos, center, with her business partners, Claire Humphreys, left, and Kristen Ablamsky. Ms. Renock said they received sexist comments while seeking financing.</media:description>
+      <media:credit>Sasha Maslov for The New York Times</media:credit>
+      <description>An environment in which entrepreneurs go hat-in-hand for financing from venture capitalists can be easily exploited.</description>
+      <dc:creator>JIM KERSTETTER</dc:creator>
+      <pubDate>Wed, 05 Jul 2017 17:31:33 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Sexual Harassment</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Venture Capital</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Entrepreneurship</category>
+    </item>
+    <item>
+      <title>Tech Tip: Expanding Your View Beyond the Laptop Screen</title>
+      <link>https://www.nytimes.com/2017/07/05/technology/personaltech/laptops-usb-c-jacks.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2017/07/05/technology/personaltech/laptops-usb-c-jacks.html</guid>
+      <atom:link rel="standout" href="https://www.nytimes.com/2017/07/05/technology/personaltech/laptops-usb-c-jacks.html?partner=rss&amp;emc=rss"/>
+      <media:content url="https://static01.nyt.com/images/2017/07/06/technology/personaltech/06techtipwebART/06techtipwebART-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description>When connected to a laptop, an external monitor can mirror the image of a smaller screen or serve as a secondary display that expands the desktop area.</media:description>
+      <media:credit>The New York Times</media:credit>
+      <description>Even if you have a laptop with the newer USB-C connections, you can find cables and adapters to hook up your small screen with a big monitor.</description>
+      <dc:creator>J. D. BIERSDORFER</dc:creator>
+      <pubDate>Wed, 05 Jul 2017 16:56:10 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Computers and the Internet</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Laptop Computers</category>
+    </item>
+    <item>
+      <title>Konica Minolta, With Eye on Health Care, Nears Deal for U.S. Genetics Firm</title>
+      <link>https://www.nytimes.com/2017/07/05/business/dealbook/konica-minolta-genetic-testing-deal.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2017/07/05/business/dealbook/konica-minolta-genetic-testing-deal.html</guid>
+      <atom:link rel="standout" href="https://www.nytimes.com/2017/07/05/business/dealbook/konica-minolta-genetic-testing-deal.html?partner=rss&amp;emc=rss"/>
+      <media:content url="https://static01.nyt.com/images/2017/07/06/business/06db-konica/06db-konica-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description>Charles L. M. Dunlop, the founder and chairman of Ambry Genetics, has said his own experience with prostate cancer factored into his decision to make public anonymized information from the company&#x2019;s database.</media:description>
+      <media:credit>Carlos Delgado/Associated Press</media:credit>
+      <description>The Japanese company, which is trying to diversify its business, is said to be preparing to announce a $900 million deal to acquire the American testing company Ambry Genetics.</description>
+      <dc:creator>JONATHAN SOBLE</dc:creator>
+      <pubDate>Wed, 05 Jul 2017 13:28:35 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Japan</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Mergers, Acquisitions and Divestitures</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Science and Technology</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Konica Minolta</category>
+    </item>
+    <item>
+      <title>Emirates and Turkish Airlines Say Laptop Ban Is Lifted on Their U.S. Flights</title>
+      <link>https://www.nytimes.com/2017/07/05/world/middleeast/laptop-ban-emirates-turkey.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2017/07/05/world/middleeast/laptop-ban-emirates-turkey.html</guid>
+      <atom:link rel="standout" href="https://www.nytimes.com/2017/07/05/world/middleeast/laptop-ban-emirates-turkey.html?partner=rss&amp;emc=rss"/>
+      <media:content url="https://static01.nyt.com/images/2017/07/06/world/06Laptops/06Laptops-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description>An Emirates plane at Dubai International Airport in March.</media:description>
+      <media:credit>Adam Scheck/Associated Press</media:credit>
+      <description>The carriers joined Etihad Airlines, which was cleared over the weekend, in receiving an exemption to the restrictions on electronic devices.</description>
+      <dc:creator>DAN BILEFSKY</dc:creator>
+      <pubDate>Wed, 05 Jul 2017 13:47:41 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Airport Security</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Airlines and Airplanes</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Terrorism</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Emirates Airlines</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Etihad Airways</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Homeland Security Department</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Islamic State in Iraq and Syria (ISIS)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Saudi Arabian Airlines</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Turkish Airlines</category>
+    </item>
+    <item>
+      <title>Tech Tip: Finding All Your Friends on the Map</title>
+      <link>https://www.nytimes.com/2017/07/04/technology/personaltech/finding-all-your-friends-on-the-map.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2017/07/04/technology/personaltech/finding-all-your-friends-on-the-map.html</guid>
+      <atom:link rel="standout" href="https://www.nytimes.com/2017/07/04/technology/personaltech/finding-all-your-friends-on-the-map.html?partner=rss&amp;emc=rss"/>
+      <description>Several apps can help you and your friends share your location information with each other, no matter which mobile platforms you use.</description>
+      <dc:creator>J. D. BIERSDORFER</dc:creator>
+      <pubDate>Tue, 04 Jul 2017 15:41:35 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Mobile Applications</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Maps</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Android (Operating System)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">iOS (Operating System)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Smartphones</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Apple Inc</category>
+    </item>
+    <item>
+      <title>Worldpay Group, a British Payments Processor, Fields Two Possible Takeover Bids</title>
+      <link>https://www.nytimes.com/2017/07/04/business/dealbook/worldpay-share-price-jpmorgan-vantiv.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2017/07/04/business/dealbook/worldpay-share-price-jpmorgan-vantiv.html</guid>
+      <atom:link rel="standout" href="https://www.nytimes.com/2017/07/04/business/dealbook/worldpay-share-price-jpmorgan-vantiv.html?partner=rss&amp;emc=rss"/>
+      <description>The company said that it had been contacted by Vantiv, a rival payments company based in Cincinnati, and by the banking powerhouse JPMorgan Chase.</description>
+      <dc:creator>CHAD BRAY</dc:creator>
+      <pubDate>Wed, 05 Jul 2017 01:07:23 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Mergers, Acquisitions and Divestitures</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Banking and Financial Institutions</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Worldpay Ltd</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Vantiv LLC</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">JPMorgan Chase &amp; Company</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Mobile Commerce and Payments</category>
+    </item>
+    <item>
+      <title>Uber Is Dealt a Fresh Blow in European Legal Case</title>
+      <link>https://www.nytimes.com/2017/07/04/business/uber-ecj-europe-france.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2017/07/04/business/uber-ecj-europe-france.html</guid>
+      <atom:link rel="standout" href="https://www.nytimes.com/2017/07/04/business/uber-ecj-europe-france.html?partner=rss&amp;emc=rss"/>
+      <media:content url="https://static01.nyt.com/images/2017/07/05/business/05UBEREUROPE1/05UBEREUROPE1-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description>Taxi drivers in Paris last month clashing with the police during a demonstration against Uber&#x2019;s low-cost service, UberPop.</media:description>
+      <media:credit>Ian Langsdon/European Pressphoto Agency</media:credit>
+      <description>An advocate general&#x2019;s recommendation to Europe&#x2019;s highest court said that France could prohibit certain types of transport services it deemed illegal.</description>
+      <dc:creator>AMIE TSANG</dc:creator>
+      <pubDate>Tue, 04 Jul 2017 08:13:17 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Car Services and Livery Cabs</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Taxicabs and Taxicab Drivers</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Decisions and Verdicts</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Uber Technologies Inc</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">European Court of Justice</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Europe</category>
+    </item>
+    <item>
+      <title>On London&#x2019;s Streets, Black Cabs and Uber Fight for a Future</title>
+      <link>https://www.nytimes.com/2017/07/04/world/europe/london-uk-brexit-uber-taxi.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2017/07/04/world/europe/london-uk-brexit-uber-taxi.html</guid>
+      <atom:link rel="standout" href="https://www.nytimes.com/2017/07/04/world/europe/london-uk-brexit-uber-taxi.html?partner=rss&amp;emc=rss"/>
+      <media:content url="https://static01.nyt.com/images/2017/06/01/world/01LondonUber1/01LondonUber1-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description>A view of Big Ben and the Houses of Parliament from a black cab in London.</media:description>
+      <media:credit>Andrew Testa for The New York Times</media:credit>
+      <description>London&#x2019;s cabby wars are less about the disruptive power of an app, or a new business model, than about the disruption of Britain.</description>
+      <dc:creator>KATRIN BENNHOLD</dc:creator>
+      <pubDate>Tue, 04 Jul 2017 04:01:46 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Uber Technologies Inc</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Great Britain Withdrawal from EU (Brexit)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">London (England)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Taxicabs and Taxicab Drivers</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Car Services and Livery Cabs</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Foreign Workers</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">European Union</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Great Britain</category>
+    </item>
+    <item>
+      <title>Itineraries: Did You Pack Too Much? Your Suitcase Knows</title>
+      <link>https://www.nytimes.com/2017/07/03/business/technology-smart-luggage.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2017/07/03/business/technology-smart-luggage.html</guid>
+      <atom:link rel="standout" href="https://www.nytimes.com/2017/07/03/business/technology-smart-luggage.html?partner=rss&amp;emc=rss"/>
+      <media:content url="https://static01.nyt.com/images/2017/07/04/business/04ITINERARIES5/04ITINERARIES5-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description>Tim Ryan of Modobag riding one of the company&#x2019;s motorized suitcases at O&#x2019;Hare International Airport in Chicago. The suitcase is expected to be available this year.</media:description>
+      <media:credit>Whitten Sabbatini for The New York Times</media:credit>
+      <description>The last big innovation in luggage was the introduction of wheels. Now, start-ups are building all types of new technology into their bags, like USB ports, GPS trackers and scales.</description>
+      <dc:creator>JULIE WEED</dc:creator>
+      <pubDate>Mon, 03 Jul 2017 22:16:22 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Luggage and Packing</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Travel and Vacations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Start-ups</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Computers and the Internet</category>
+    </item>
+    <item>
+      <title>Harassment in the Tech Industry: Voices Grow on Social Media</title>
+      <link>https://www.nytimes.com/2017/07/03/technology/sexual-harassment-silicon-valley-tech.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2017/07/03/technology/sexual-harassment-silicon-valley-tech.html</guid>
+      <atom:link rel="standout" href="https://www.nytimes.com/2017/07/03/technology/sexual-harassment-silicon-valley-tech.html?partner=rss&amp;emc=rss"/>
+      <media:content url="https://static01.nyt.com/images/2017/07/04/business/04HARASS1/04HARASS1-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description>Some readers were surprised that women in the technology industry came forward with stories of sexual harassment, given the risk of retaliation.</media:description>
+      <media:credit>Eric Risberg/Associated Press</media:credit>
+      <description>As readers respond to women&#x2019;s accounts of sexual harassment in the technology industry, the investor Dave McClure announces his resignation from a firm he helped found.</description>
+      <dc:creator>KELLY COUTURIER</dc:creator>
+      <pubDate>Mon, 03 Jul 2017 20:40:45 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Cyberharassment</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Sexual Harassment</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Start-ups</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">500 Startups</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Lowercase Capital</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Uber Technologies Inc</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Fowler, Susan J</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Kalanick, Travis</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Sacca, Chris (1975- )</category>
+    </item>
+    <item>
+      <title>Bits: Daily Report: The Testing Labs of Malware</title>
+      <link>https://www.nytimes.com/2017/07/03/technology/daily-report-the-testing-labs-of-malware.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2017/07/03/technology/daily-report-the-testing-labs-of-malware.html</guid>
+      <atom:link rel="standout" href="https://www.nytimes.com/2017/07/03/technology/daily-report-the-testing-labs-of-malware.html?partner=rss&amp;emc=rss"/>
+      <description>If you&#x2019;ve developed new malicious software to break into a bank, do you test it out on Wall Street or in a developing economy?</description>
+      <dc:creator>JIM KERSTETTER</dc:creator>
+      <pubDate>Wed, 05 Jul 2017 16:04:32 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Cyberattacks and Hackers</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">SWIFT(Society for Worldwide Interbank Financial Telecommunication)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Bangladesh</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">North Korea</category>
+    </item>
+    <item>
+      <title>Tech Tip: After Ransomware Attack, Windows XP Is Not Back From the Dead</title>
+      <link>https://www.nytimes.com/2017/07/03/technology/personaltech/windows-xp-cyberattack-security.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2017/07/03/technology/personaltech/windows-xp-cyberattack-security.html</guid>
+      <atom:link rel="standout" href="https://www.nytimes.com/2017/07/03/technology/personaltech/windows-xp-cyberattack-security.html?partner=rss&amp;emc=rss"/>
+      <description>Microsoft recently issued an emergency patch for the operating system it retired in 2014, but the company has no plans to restore full support.</description>
+      <dc:creator>J. D. BIERSDORFER</dc:creator>
+      <pubDate>Mon, 03 Jul 2017 16:32:44 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Computer Security</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Microsoft Corp</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Computers and the Internet</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Windows (Operating System)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Cyberattacks and Hackers</category>
+    </item>
+    <item>
+      <title>When Just Vanilla Won&#x2019;t Do, How About a Blueberry Pie Oreo?</title>
+      <link>https://www.nytimes.com/2017/07/03/business/oreo-new-flavors.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2017/07/03/business/oreo-new-flavors.html</guid>
+      <atom:link rel="standout" href="https://www.nytimes.com/2017/07/03/business/oreo-new-flavors.html?partner=rss&amp;emc=rss"/>
+      <media:content url="https://static01.nyt.com/images/2017/06/22/business/00xp-oreo-photos-slide-5N3Z/00xp-oreo-photos-slide-5N3Z-moth-v2.jpg" medium="image" height="151" width="151"/>
+      <media:description/>
+      <media:credit>Tony Cenicola/The New York Times</media:credit>
+      <description>The company has increasingly been experimenting with limited-edition flavors that seemed designed as much for an Instagram feed as they are to be eaten.</description>
+      <dc:creator>MAYA SALAM</dc:creator>
+      <pubDate>Mon, 03 Jul 2017 14:18:30 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Cookies</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_keyword">Oreo</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Mondelez International Inc</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Contests and Prizes</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Social Media</category>
+    </item>
+    <item>
+      <title>At Their Leisure: Why Some Men Don&#x2019;t Work: Video Games Have Gotten Really Good</title>
+      <link>https://www.nytimes.com/2017/07/03/upshot/why-some-men-dont-work-video-games-have-gotten-really-good.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2017/07/03/upshot/why-some-men-dont-work-video-games-have-gotten-really-good.html</guid>
+      <atom:link rel="standout" href="https://www.nytimes.com/2017/07/03/upshot/why-some-men-dont-work-video-games-have-gotten-really-good.html?partner=rss&amp;emc=rss"/>
+      <media:content url="https://static01.nyt.com/images/2017/07/01/upshot/up30-video-games/up30-video-games-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description>As video games have gotten more technically advanced, they&#x2019;ve also gotten more entrancing. Young men, in particular, are spending more time playing.</media:description>
+      <media:credit>Jean Chung for The New York Times</media:credit>
+      <description>Young men are working less. Some economists think it&#x2019;s because they&#x2019;re home playing video games.</description>
+      <dc:creator>QUOCTRUNG BUI</dc:creator>
+      <pubDate>Wed, 05 Jul 2017 19:39:29 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Computer and Video Games</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Working Hours</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Men and Boys</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Youth</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Happiness</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Computers and the Internet</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Leisure</category>
+    </item>
+    <item>
+      <title>Tesla&#x2019;s First Mass-Market Car, the Model 3, Hits Production This Week</title>
+      <link>https://www.nytimes.com/2017/07/03/business/tesla-model-3-elon-musk.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2017/07/03/business/tesla-model-3-elon-musk.html</guid>
+      <atom:link rel="standout" href="https://www.nytimes.com/2017/07/03/business/tesla-model-3-elon-musk.html?partner=rss&amp;emc=rss"/>
+      <media:content url="https://static01.nyt.com/images/2017/07/03/business/03TESLA3-sub/03TESLA3-sub-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description>Tesla&#x2019;s Model 3, which will sell for around $35,000. It is a critical test of the company&#x2019;s plan to become a producer of mass-market electric cars.</media:description>
+      <media:credit>Justin Pritchard/Associated Press</media:credit>
+      <description>As the electric-car maker moves to expand its lineup, it said problems with battery manufacturing had held down sales of existing models this year.</description>
+      <dc:creator>NEAL E. BOUDETTE</dc:creator>
+      <pubDate>Mon, 03 Jul 2017 23:09:13 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Tesla Motors Inc</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Musk, Elon</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Automobiles</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Factories and Manufacturing</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Electric and Hybrid Vehicles</category>
+    </item>
+    <item>
+      <title>Hackers Find &#x2018;Ideal Testing Ground&#x2019; for Attacks: Developing Countries</title>
+      <link>https://www.nytimes.com/2017/07/02/technology/hackers-find-ideal-testing-ground-for-attacks-developing-countries.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2017/07/02/technology/hackers-find-ideal-testing-ground-for-attacks-developing-countries.html</guid>
+      <atom:link rel="standout" href="https://www.nytimes.com/2017/07/02/technology/hackers-find-ideal-testing-ground-for-attacks-developing-countries.html?partner=rss&amp;emc=rss"/>
+      <media:content url="https://static01.nyt.com/images/2017/07/03/business/03MALWARE1/03MALWARE1-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description/>
+      <media:credit>Anthony Freda</media:credit>
+      <description>Often the best way to see if a cyberweapon works is to try it out in a country without the best digital defenses, as recent attacks have indicated.</description>
+      <dc:creator>SHEERA FRENKEL</dc:creator>
+      <pubDate>Sun, 02 Jul 2017 22:20:17 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Cyberwarfare and Defense</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Cyberattacks and Hackers</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Third World and Developing Countries</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Bangladesh Bank</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Artificial Intelligence</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Darktrace Ltd</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">India</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Computer Security</category>
+    </item>
+    <item>
+      <title>The South Park Commons Fills a Hole in the Tech Landscape</title>
+      <link>https://www.nytimes.com/2017/07/02/business/tech-scene-south-park-commons-san-francisco.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2017/07/02/business/tech-scene-south-park-commons-san-francisco.html</guid>
+      <atom:link rel="standout" href="https://www.nytimes.com/2017/07/02/business/tech-scene-south-park-commons-san-francisco.html?partner=rss&amp;emc=rss"/>
+      <media:content url="https://static01.nyt.com/images/2017/07/03/business/03southpark/03southpark-moth-v2.jpg" medium="image" height="151" width="151"/>
+      <media:description>South Park Commons in San Francisco is the tech world&#x2019;s answer to a French salon.</media:description>
+      <media:credit>Jason LeCras for The New York Times</media:credit>
+      <description>The Bay Area tech scene has start-up incubators and hacker spaces. But what do you do when you want to figure out your next move?</description>
+      <dc:creator>CADE METZ</dc:creator>
+      <pubDate>Sun, 02 Jul 2017 21:40:03 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">South Park Commons</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Sanghvi, Ruchi</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Silicon Valley (Calif)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">San Francisco Bay Area (Calif)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Facebook Inc</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Dropbox Inc</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Computers and the Internet</category>
+    </item>
+    <item>
+      <title>Bits: Mike&#x2019;s and Kevin&#x2019;s Week in Tech: Streaming Music and Harassment in Venture Capital</title>
+      <link>https://www.nytimes.com/2017/07/01/technology/tech-streaming-music-harassment-venture-capital.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2017/07/01/technology/tech-streaming-music-harassment-venture-capital.html</guid>
+      <atom:link rel="standout" href="https://www.nytimes.com/2017/07/01/technology/tech-streaming-music-harassment-venture-capital.html?partner=rss&amp;emc=rss"/>
+      <description>Two Times reporters discuss the Jay-Z album debut on Tidal, and the bad behavior that runs rampant in the venture capital industry.</description>
+      <dc:creator>MIKE ISAAC and KEVIN ROOSE</dc:creator>
+      <pubDate>Sat, 01 Jul 2017 13:00:02 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Venture Capital</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Sexual Harassment</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Women and Girls</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Discrimination</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Cyberattacks and Hackers</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Audio Recordings, Downloads and Streaming</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Antitrust Laws and Competition Issues</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Binary Capital</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Google Inc</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Tidal (Aspiro AB)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Jay-Z</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Silicon Valley (Calif)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Pandora Media Inc</category>
+    </item>
+    <item>
+      <title>Yelp&#x2019;s Six-Year Grudge Against Google</title>
+      <link>https://www.nytimes.com/2017/07/01/technology/yelp-google-european-union-antitrust.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2017/07/01/technology/yelp-google-european-union-antitrust.html</guid>
+      <atom:link rel="standout" href="https://www.nytimes.com/2017/07/01/technology/yelp-google-european-union-antitrust.html?partner=rss&amp;emc=rss"/>
+      <media:content url="https://static01.nyt.com/images/2017/07/02/business/02YelpCover/02YelpCover-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description/>
+      <media:credit>Tom Grillo</media:credit>
+      <description>Once courted, then spurned, the smaller rival sought revenge for years. Now Europe&#x2019;s regulators give it reason to cheer.</description>
+      <dc:creator>CONOR DOUGHERTY</dc:creator>
+      <pubDate>Sat, 01 Jul 2017 09:00:19 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Yelp</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Google Inc</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Antitrust Laws and Competition Issues</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Search Engines</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Consumer Reviews</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Regulation and Deregulation of Industry</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">European Union</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Stoppelman, Jeremy</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Lowe, Luther</category>
+    </item>
+    <item>
+      <title>Women in Tech Speak Frankly on Culture of Harassment</title>
+      <link>https://www.nytimes.com/2017/06/30/technology/women-entrepreneurs-speak-out-sexual-harassment.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2017/06/30/technology/women-entrepreneurs-speak-out-sexual-harassment.html</guid>
+      <atom:link rel="standout" href="https://www.nytimes.com/2017/06/30/technology/women-entrepreneurs-speak-out-sexual-harassment.html?partner=rss&amp;emc=rss"/>
+      <media:content url="https://static01.nyt.com/images/2017/07/01/us/01VALLEYWOMEN1/01VALLEYWOMEN1-moth-v2.jpg" medium="image" height="151" width="151"/>
+      <media:description>Rachel Renock, the chief executive of Wethos, center, with her business partners, Claire Humphreys, left, and Kristen Ablamsky. Ms. Renock said they received sexist comments while seeking financing.</media:description>
+      <media:credit>Sasha Maslov for The New York Times</media:credit>
+      <description>More than two dozen women in the tech start-up industry spoke to The New York Times about being sexually harassed by investors and mentors.</description>
+      <dc:creator>KATIE BENNER</dc:creator>
+      <pubDate>Fri, 30 Jun 2017 21:33:13 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Venture Capital</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Entrepreneurship</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Women and Girls</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Sexual Harassment</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Sex Crimes</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Discrimination</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Silicon Valley (Calif)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Binary Capital</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Caldbeck, Justin</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Science and Technology</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Computers and the Internet</category>
+    </item>
+    <item>
+      <title>Bits: Daily Report: In Paris, They Do Start-Ups With Style</title>
+      <link>https://www.nytimes.com/2017/06/30/technology/daily-report-in-paris-they-do-start-ups-with-style.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2017/06/30/technology/daily-report-in-paris-they-do-start-ups-with-style.html</guid>
+      <atom:link rel="standout" href="https://www.nytimes.com/2017/06/30/technology/daily-report-in-paris-they-do-start-ups-with-style.html?partner=rss&amp;emc=rss"/>
+      <media:content url="https://static01.nyt.com/images/2017/06/27/business/oakImage-1498594226106/oakImage-1498594226106-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description>An office in Station F that will be home to Daphni, a venture capital firm.</media:description>
+      <media:credit>Roberto Frankenberg for The New York Times</media:credit>
+      <description>The Silicon Valley workaholic ethos would never be confused with the French way of living. That&#x2019;s not dissuading a group of tech entrepreneurs.</description>
+      <dc:creator>JIM KERSTETTER</dc:creator>
+      <pubDate>Fri, 30 Jun 2017 16:43:59 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Work-Life Balance</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Start-ups</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Science and Technology</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Paris (France)</category>
+    </item>
+    <item>
+      <title>Tech Tip: Deciding When to Use Your Own Router</title>
+      <link>https://www.nytimes.com/2017/06/30/technology/personaltech/modem-router-combination-advice.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2017/06/30/technology/personaltech/modem-router-combination-advice.html</guid>
+      <atom:link rel="standout" href="https://www.nytimes.com/2017/06/30/technology/personaltech/modem-router-combination-advice.html?partner=rss&amp;emc=rss"/>
+      <media:content url="https://static01.nyt.com/images/2017/07/01/technology/personaltech/01techtipwebART/01techtipwebART-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description>Using the wireless router provided by your internet service provider can make for an easier tech-support experience, but you may not get as many features as you would with hardware you buy yourself.</media:description>
+      <media:credit>The New York Times</media:credit>
+      <description>A modem-router combination from your internet service provider usually means less setup and simpler technical support but, sometimes, fewer features.</description>
+      <dc:creator>J. D. BIERSDORFER</dc:creator>
+      <pubDate>Fri, 30 Jun 2017 16:18:43 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Computers and the Internet</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Wireless Communications</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Telephones and Telecommunications</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Verizon Communications Inc</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Wirecutter, The</category>
+    </item>
+    <item>
+      <title>Delete Hate Speech or Pay Up, Germany Tells Social Media Companies</title>
+      <link>https://www.nytimes.com/2017/06/30/business/germany-facebook-google-twitter.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2017/06/30/business/germany-facebook-google-twitter.html</guid>
+      <atom:link rel="standout" href="https://www.nytimes.com/2017/06/30/business/germany-facebook-google-twitter.html?partner=rss&amp;emc=rss"/>
+      <media:content url="https://static01.nyt.com/images/2017/07/01/world/01Germanyfb/01Germanyfb-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description>A new law in Germany will require companies including Facebook, Twitter and Google, which owns YouTube, to remove any content that is illegal in Germany &#x2014; such as Nazi symbols or Holocaust denial &#x2014; within 24 hours of it being brought to their attention.</media:description>
+      <media:credit>Tobias Schwarz/Agence France-Presse &#x2014; Getty Images</media:credit>
+      <description>A new law will impose fines on companies like Facebook and Twitter if they fail to swiftly remove illegal or hateful content on their platforms.</description>
+      <dc:creator>MELISSA EDDY and MARK SCOTT</dc:creator>
+      <pubDate>Sun, 02 Jul 2017 22:18:34 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Germany</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Social Media</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Freedom of Speech and Expression</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Hate Crimes</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Law and Legislation</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Facebook Inc</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Google Inc</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Twitter</category>
+    </item>
+    <item>
+      <title>Wheels: Why Fog Lamps Are Starting to Disappear</title>
+      <link>https://www.nytimes.com/2017/06/29/automobiles/wheels/why-fog-lamps-are-starting-to-disappear.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2017/06/29/automobiles/wheels/why-fog-lamps-are-starting-to-disappear.html</guid>
+      <atom:link rel="standout" href="https://www.nytimes.com/2017/06/29/automobiles/wheels/why-fog-lamps-are-starting-to-disappear.html?partner=rss&amp;emc=rss"/>
+      <media:content url="https://static01.nyt.com/images/2017/06/29/business/30WHEELS1/30WHEELS1-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description>General Motors&#x2019; headquarters and other buildings in the Detroit skyline, obscured by early morning fog. Some automakers have quietly omitted front fog lights from many new models, saying that high-tech headlights make them unnecessary.</media:description>
+      <media:credit>Kevin Miyazaki for The New York Times</media:credit>
+      <description>Several luxury automakers have moved away from fog lights, saying that new high-tech headlights render them obsolete.</description>
+      <dc:creator>JAMES G. COBB</dc:creator>
+      <pubDate>Thu, 29 Jun 2017 16:00:00 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Automobile Safety Features and Defects</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">AAA Foundation for Traffic Safety</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Mercedes-Benz</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Consumer Reports</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Insurance Institute for Highway Safety</category>
+    </item>
+    <item>
+      <title>Bits: Daily Report: When Ransomware Isn&#x2019;t After a Ransom</title>
+      <link>https://www.nytimes.com/2017/06/29/technology/daily-report-when-ransomware-isnt-after-a-ransom.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2017/06/29/technology/daily-report-when-ransomware-isnt-after-a-ransom.html</guid>
+      <atom:link rel="standout" href="https://www.nytimes.com/2017/06/29/technology/daily-report-when-ransomware-isnt-after-a-ransom.html?partner=rss&amp;emc=rss"/>
+      <media:content url="https://static01.nyt.com/images/2017/06/29/business/29NSA1/29NSA1-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description>On Wednesday, the calls for the National Security Agency to address its role in the latest hacking attacks grew louder from victims and tech companies.</media:description>
+      <media:credit>Patrick Semansky/Associated Press</media:credit>
+      <description>The cyberattack that started in Ukraine and went global didn&#x2019;t seem like an effort focused on making money.</description>
+      <dc:creator>JIM KERSTETTER</dc:creator>
+      <pubDate>Thu, 29 Jun 2017 15:54:34 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Cyberwarfare and Defense</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">National Security Agency</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Russia</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Ukraine</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Iran</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Extortion and Blackmail</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_keyword">Ransomware</category>
+    </item>
+    <item>
+      <title>Tech Tip: Squeezing More Battery Juice Out of a Smartphone</title>
+      <link>https://www.nytimes.com/2017/06/29/technology/personaltech/squeezing-more-battery-juice-out-of-a-smartphone.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2017/06/29/technology/personaltech/squeezing-more-battery-juice-out-of-a-smartphone.html</guid>
+      <atom:link rel="standout" href="https://www.nytimes.com/2017/06/29/technology/personaltech/squeezing-more-battery-juice-out-of-a-smartphone.html?partner=rss&amp;emc=rss"/>
+      <description>If your phone is getting less time between trips to the charger, make sure external heat and power-hungry apps aren&#x2019;t part of the problem.</description>
+      <dc:creator>J. D. BIERSDORFER</dc:creator>
+      <pubDate>Thu, 29 Jun 2017 15:46:11 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Batteries</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Smartphones</category>
+    </item>
+    <item>
+      <title>Ask The Wirecutter: For the Best Internet at Home, Try These Tips on Wi-Fi Gear</title>
+      <link>https://www.nytimes.com/2017/06/28/technology/personaltech/for-the-best-internet-at-home-try-these-tips-on-wi-fi-gear.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2017/06/28/technology/personaltech/for-the-best-internet-at-home-try-these-tips-on-wi-fi-gear.html</guid>
+      <atom:link rel="standout" href="https://www.nytimes.com/2017/06/28/technology/personaltech/for-the-best-internet-at-home-try-these-tips-on-wi-fi-gear.html?partner=rss&amp;emc=rss"/>
+      <media:content url="https://static01.nyt.com/images/2017/06/28/business/29ASKWIRE/29ASKWIRE-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description>Eero, one mesh networking kit. A mesh system will pick up and rebroadcast a Wi-Fi signal, extending the range.</media:description>
+      <media:credit>Michael Hession/The Wirecutter</media:credit>
+      <description>Mesh networks appeal to people who aren&#x2019;t happy with the speed of their current Wi-Fi system. But they&#x2019;re not for everyone.</description>
+      <dc:creator>DAMON DARLIN</dc:creator>
+      <pubDate>Thu, 29 Jun 2017 02:07:09 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Computers and the Internet</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Wireless Communications</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Computer Security</category>
+    </item>
+    <item>
+      <title>Trump, Amazon and &#x2018;Internet Taxes&#x2019;: What Did He Mean?</title>
+      <link>https://www.nytimes.com/2017/06/28/business/trump-internet-tax-amazon.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2017/06/28/business/trump-internet-tax-amazon.html</guid>
+      <atom:link rel="standout" href="https://www.nytimes.com/2017/06/28/business/trump-internet-tax-amazon.html?partner=rss&amp;emc=rss"/>
+      <media:content url="https://static01.nyt.com/images/2017/06/29/business/29TRUMPTAX1/29TRUMPTAX1-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description>An employee of Amazon PrimeNow preparing bags to fill with orders at a distribution hub in New York.</media:description>
+      <media:credit>Bebeto Matthews/Associated Press</media:credit>
+      <description>A tweet may have implied support for legislation helping states force online retailers to collect sales taxes. But that is already Amazon&#x2019;s practice.</description>
+      <dc:creator>PATRICIA COHEN</dc:creator>
+      <pubDate>Thu, 29 Jun 2017 01:58:01 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Sales and Excise Taxes</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">E-Commerce</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Amazon.com Inc</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Washington Post</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Bezos, Jeffrey P</category>
+    </item>
+    <item>
+      <title>Hacks Raise Fear Over N.S.A.&#x2019;s Hold on Cyberweapons</title>
+      <link>https://www.nytimes.com/2017/06/28/technology/ransomware-nsa-hacking-tools.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2017/06/28/technology/ransomware-nsa-hacking-tools.html</guid>
+      <atom:link rel="standout" href="https://www.nytimes.com/2017/06/28/technology/ransomware-nsa-hacking-tools.html?partner=rss&amp;emc=rss"/>
+      <media:content url="https://static01.nyt.com/images/2017/06/29/business/29NSA1/29NSA1-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description>On Wednesday, the calls for the National Security Agency to address its role in the latest hacking attacks grew louder from victims and tech companies.</media:description>
+      <media:credit>Patrick Semansky/Associated Press</media:credit>
+      <description>Hackers in two global attacks have used cyberweapons stolen from a dangerous collection that had been amassed by the agency.</description>
+      <dc:creator>NICOLE PERLROTH and DAVID E. SANGER</dc:creator>
+      <pubDate>Thu, 29 Jun 2017 01:28:37 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Cyberwarfare and Defense</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">National Security Agency</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Computer Security</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Cyberattacks and Hackers</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Shadow Brokers</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Ukraine</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Russia</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">United States International Relations</category>
+    </item>
+    <item>
+      <title>Samsung Joins Ranks of Foreign Firms Adding Jobs in the U.S.</title>
+      <link>https://www.nytimes.com/2017/06/28/technology/samsung-to-open-factory-in-south-carolina.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2017/06/28/technology/samsung-to-open-factory-in-south-carolina.html</guid>
+      <atom:link rel="standout" href="https://www.nytimes.com/2017/06/28/technology/samsung-to-open-factory-in-south-carolina.html?partner=rss&amp;emc=rss"/>
+      <media:content url="https://static01.nyt.com/images/2017/06/29/business/29SAMSUNG1/29SAMSUNG1-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description>Samsung plans to invest $380 million and hire over 950 workers for a new manufacturing plant for home appliances in South Carolina.</media:description>
+      <media:credit>John Macdougall/Agence France-Presse &#x2014; Getty Images</media:credit>
+      <description>The South Korean company said it had considered opening an appliance plant for about three years, but the factory may help it stay on President Trump&#x2019;s good side.</description>
+      <dc:creator>MICAH MAIDENBERG</dc:creator>
+      <pubDate>Wed, 28 Jun 2017 22:27:50 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Labor and Jobs</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Factories and Manufacturing</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">South Carolina</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Samsung Group</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
+    </item>
+  </channel>
+</rss>
